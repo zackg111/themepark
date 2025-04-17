@@ -1,4 +1,4 @@
- :root {
+:root {
    /* 
      --main-bg-color: url(/resources/blur-noise.png), url(/resources/preset-light2.png) center center/cover no-repeat fixed;
      --modal-bg-color: url(/resources/blur-noise.png), url(/resources/preset-dark2.png) center center/cover no-repeat fixed;
@@ -11,13 +11,13 @@
 
    --drop-down-menu-bg: #191a1c;
 
-   --button-color: #cc7b19;
+   --button-color: #a6e50d;
    --button-color-hover: #e59029;
    --button-text: #eee;
    --button-text-hover: #fff;
 
    --accent-color: 229, 160, 13;
-   --accent-color-hover: #ffc107;
+   --accent-color-hover: #a6e50d;
    --link-color: #e5a00d;
    --link-color-hover: #fff;
    --label-text-color: #333;
@@ -28,7 +28,7 @@
 
     /*Specials*/
     --arr-queue-color: #27c24c; /* Servarr apps + Bazarr*/
-    --plex-poster-unwatched: #e5a00d;
+    --plex-poster-unwatched: #a6e50d;
     --petio-spinner: invert(0%) sepia(0%) saturate(100%) hue-rotate(0deg) brightness(100%) contrast(100%);/* Made with https://codepen.io/jsm91/embed/ZEEawyZ */
     --gitea-color-primary-dark-4: 255, 193, 7;
     --overseerr-gradient: radial-gradient(circle farthest-side at 0% 100%, rgb(47, 47, 47) 0%, rgba(47, 47, 47, 0) 100%), radial-gradient(circle farthest-side at 100% 100%, rgb(63, 63, 63) 0%, rgba(63, 63, 63, 0) 100%), radial-gradient(circle farthest-side at 100% 0%, rgb(76, 76, 76) 0%, rgba(76, 76, 76, 0) 100%), radial-gradient(circle farthest-side at 0% 0%, rgb(58, 58, 58) 0%, rgba(58, 58, 58, 0) 100%), rgba(0, 0, 0, 0.5) center center/cover no-repeat fixed;
