@@ -19,7 +19,7 @@
     },
     "plex": {
       "overseerr-side-menu": "https://zackg111.github.io\n/css/addons/plex/overseerr-side-menu/overseerr-side-menu.css?sha=2686a5de88531cda6b3334e23cbcbe7e",
-      "plex-alt-logo": "https://zackg111.github.io\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=d95db9549cea417a481e5af828fc2801"
+      "plex-alt-logo": "https://zackg111.github.io\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=a93e4caa8580312379baad7a62d83f97"
     },
     "prowlarr": {
       "prowlarr-darker": "https://zackg111.github.io\n/css/addons/prowlarr/prowlarr-darker/prowlarr-darker.css?sha=c7aa9c3221ae3e77beccc3e6c2c4b729",
@@ -480,7 +480,7 @@
     "plex": {
       "addons": {
         "overseerr-side-menu": "https://zackg111.github.io\n/css/addons/plex/overseerr-side-menu/overseerr-side-menu.css?sha=2686a5de88531cda6b3334e23cbcbe7e",
-        "plex-alt-logo": "https://zackg111.github.io\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=d95db9549cea417a481e5af828fc2801"
+        "plex-alt-logo": "https://zackg111.github.io\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=a93e4caa8580312379baad7a62d83f97"
       },
       "base_css": "https://zackg111.github.io\n/css/base/plex/plex-base.css?sha=7a7271dae008e1219bc5d0693a7ea155"
     },
