@@ -1,13 +1,15 @@
 [class*="NavBar-logoContainer-"] {
     background-image: url("/css/addons/plex/plex-alt-logo/orange_plex_logo.png");
-    background-position: 50%;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    margin: 0 5px;
-    width: 100px;
-    filter: drop-shadow(0 0 4px #fff);
+    width: 180px;
+    aspect-ratio: 5 / 1;
+    max-height: 40px;
+    filter: drop-shadow(0 0 4px #ff8c00); /* Optional: orange glow */
+    margin: 0 8px;
 }
 
 [class*="NavBar-logoContainer-"] svg {
-    display: none;
+    display: none !important;
 }
