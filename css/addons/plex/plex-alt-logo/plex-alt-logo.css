@@ -4,7 +4,7 @@
     background-repeat: no-repeat;
     background-size: contain;
     margin: 0 5px;
-    height: 15px;
+    width: 100px;
     filter: drop-shadow(0 0 4px #fff);
 }
 
