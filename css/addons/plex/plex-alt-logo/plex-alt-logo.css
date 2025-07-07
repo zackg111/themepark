@@ -3,11 +3,10 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    width: 180px;
-    aspect-ratio: 5 / 1;
-    max-height: 40px;
-    filter: drop-shadow(0 0 4px #ff8c00); /* Optional: orange glow */
-    margin: 0 8px;
+    width: 260px;
+    height: 80px;
+    filter: drop-shadow(0 0 6px #ff8c00);
+    margin: 0 10px;
 }
 
 [class*="NavBar-logoContainer-"] svg {
