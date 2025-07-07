@@ -19,7 +19,7 @@
     },
     "plex": {
       "overseerr-side-menu": "https://live.themepark.goodnite.info\n/css/addons/plex/overseerr-side-menu/overseerr-side-menu.css?sha=2686a5de88531cda6b3334e23cbcbe7e",
-      "plex-alt-logo": "https://live.themepark.goodnite.info\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=8bf06a219405f661757f47308e90fbb3"
+      "plex-alt-logo": "https://live.themepark.goodnite.info\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=7ac3d46fb342cdacebc46ca7f2267278"
     },
     "prowlarr": {
       "prowlarr-darker": "https://live.themepark.goodnite.info\n/css/addons/prowlarr/prowlarr-darker/prowlarr-darker.css?sha=c7aa9c3221ae3e77beccc3e6c2c4b729",
@@ -480,7 +480,7 @@
     "plex": {
       "addons": {
         "overseerr-side-menu": "https://live.themepark.goodnite.info\n/css/addons/plex/overseerr-side-menu/overseerr-side-menu.css?sha=2686a5de88531cda6b3334e23cbcbe7e",
-        "plex-alt-logo": "https://live.themepark.goodnite.info\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=8bf06a219405f661757f47308e90fbb3"
+        "plex-alt-logo": "https://live.themepark.goodnite.info\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=7ac3d46fb342cdacebc46ca7f2267278"
       },
       "base_css": "https://live.themepark.goodnite.info\n/css/base/plex/plex-base.css?sha=220fefa5c86a58ed699fda467f8d0b8f"
     },
