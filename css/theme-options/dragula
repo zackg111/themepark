@@ -1,0 +1,24 @@
+:root {
+    --main-bg-color: #4f0065;
+    --modal-bg-color: #1e2029;
+    --modal-header-color: #1e2029;
+    --modal-footer-color: #1e2029;
+    --drop-down-menu-bg: #1e2029;
+    --button-color: #6411db;
+    --button-color-hover: #ff79c6;
+    --button-text: #eee;
+    --button-text-hover: #FFF;
+    --accent-color: 80, 250, 123;
+    --accent-color-hover: rgb(43 43 43 / 80%);
+    --link-color: #da6aff;
+    --link-color-hover: #4fc91d;
+    --label-text-color: #282a36;
+    --text: #f8f8f2;
+    --text-hover: #fff;
+    --text-muted: #6272a4;
+    --arr-queue-color: #50fa7b;
+    --plex-poster-unwatched: #bd93f9;
+    --petio-spinner: invert(79%) sepia(27%) saturate(1033%) hue-rotate(74deg) brightness(104%) contrast(96%);
+    --gitea-color-primary-dark-4: 80, 250, 123;
+    --overseerr-gradient: linear-gradient(180deg, rgba(40, 42, 54, 0.17) 0%, rgba(40, 42, 54) 100%);
+}
